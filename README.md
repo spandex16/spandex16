@@ -1,9 +1,10 @@
 ## Hi there. I am Spandan 👋
+
 ![Alt Text]([https://media.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuNmJ0MDE4Z2RodTk3bmtubHZ3Y2JobWM2bnl0aWVyOGdvOHE3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif))
+
 ***
 I am an enthusiastic data scientist with a strong foundation in economics and data science, leveraging my skills to extract meaningful insights and drive innovation. I am eager to contribute my expertise to projects that require analytical thinking and a creative approach. Let's connect and explore how I can make an impact in your organization. 
 
-**spandex16/spandex16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,6 +18,38 @@ Here are some ideas to get you started:
 - 🏃 Hobbies: Powerlifting, Rugby and Video Games
 
   ***
+
+  ## Work Experience
+
+**Retail Business Analyst**  
+*Lululemon Athletica*  
+Calgary, Canada | Nov 2021 - Present
+
+- Leveraged Power BI and Excel to boost sales and pinpoint areas of business weakness, leading to a remarkable 15% increase in total sales and a 20% increase in inventory accuracy.
+- Elevated team performance through supportive leadership, mentorship, and the implementation of effective training programs, while strategically executing productivity plans in collaboration with other leaders.
+- Prioritised customer service and undertook diverse responsibilities to meet evolving business requirements.
+- Executed data entry and validation duties, resulting in a substantial 35% increase in data accuracy.
+- Collaborated within a team to achieve consistent sales figures, driving between $1.7 million to $2.5 million in sales within each 31-day period.
+
+**Supply Chain Data Analyst**  
+*Lululemon Athletica*  
+Remote, Canada | June 2023 - Nov 2023
+
+- Worked cross-functionally with multiple teams to build ETL models to enhance business processes.
+- Wrote complex SQL queries to gain insights and drive supply chain decisions.
+- Utilised Excel and Power BI to create analytical reports, improving efficiency by 20%.
+- Collaborated on the development and continuous management of robust data governance and analytics solutions leveraging Snowflake, ensuring data accuracy and optimising decision-making processes.
+
+**Data Scientist**  
+*Linkbase*  
+Hybrid, Canada | Mar 2020 - Sep 2021
+
+- Implemented machine learning models using Python and TensorFlow, resulting in a 15% increase in predictive maintenance accuracy, effectively reducing equipment downtime and maintenance costs.
+- Leveraged Spark and SQL to enhance product performance by 10%, driven by user behaviour analysis.
+- Integrated personalised recommendations and tailored settings leading to a 20% rise in user engagement.
+- Optimised data transmission efficiency by 12% through fine-tuning wireless protocols using Wireshark and custom Python scripts, ensuring seamless connectivity for Linkbase products.
+
+***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,10 +98,6 @@ Here are some ideas to get you started:
   
 </p>
  
-<p align="center">
 
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fspandex16%2Fspandex16%2Fblob%2Fmain%2FREADME.md&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fspandex16%2Fspandex16%2Fblob%2Fmain%2FREADME.md)
-  
-</p>
 
 
