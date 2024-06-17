@@ -1,6 +1,8 @@
 ## Hi there. I am Spandan 👋
 
-![Alt Text](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)
+<p align="center">
+  <img src="https://github.com/spandex16/spandex16/blob/main/b26279b0f84f115e6666a2b84608108b.png" alt="Alt Text" />
+</p>
 
 ***
 I am an enthusiastic data scientist with a strong foundation in economics and data science, leveraging my skills to extract meaningful insights and drive innovation. I am eager to contribute my expertise to projects that require analytical thinking and a creative approach. Let's connect and explore how I can make an impact in your organization. 
