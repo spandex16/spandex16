@@ -1,6 +1,6 @@
 ## Hi there. I am Spandan 👋
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuNmJ0MDE4Z2RodTk3bmtubHZ3Y2JobW2Dn18aWVy0Gdx0HE3CZ1cD12W9naWZzX3NlVXJacZjdD1n/xT9C25UNTwfZuk8sWP/giphy.gif)
+<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
 
 ***
 I am an enthusiastic data scientist with a strong foundation in economics and data science, leveraging my skills to extract meaningful insights and drive innovation. I am eager to contribute my expertise to projects that require analytical thinking and a creative approach. Let's connect and explore how I can make an impact in your organization. 
