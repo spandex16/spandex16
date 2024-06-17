@@ -1,6 +1,6 @@
 ## Hi there. I am Spandan 👋
 
-![Alt Text]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuNmJ0MDE4Z2RodTk3bmtubHZ3Y2JobWM2bnl0aWVyOGdvOHE3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif])
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuNmJ0MDE4Z2RodTk3bmtubHZ3Y2JobW2Dn18aWVy0Gdx0HE3CZ1cD12W9naWZzX3NlVXJacZjdD1n/xT9C25UNTwfZuk8sWP/giphy.gif)
 
 ***
 I am an enthusiastic data scientist with a strong foundation in economics and data science, leveraging my skills to extract meaningful insights and drive innovation. I am eager to contribute my expertise to projects that require analytical thinking and a creative approach. Let's connect and explore how I can make an impact in your organization. 
