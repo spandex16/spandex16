@@ -84,18 +84,16 @@ Hybrid, Canada | Mar 2020 - Sep 2021
 </p>
 
 ***
-<h2 align="center"> Stats </h2>
+***
+
+<h2 align="center">Stats</h2>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spandex16&show_icons=true&theme=dracula" alt="Spandan's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandex16&hide=html&layout=compact&theme=dracula" alt="Top Langs" />
+</p>
 
-  ![Spandan's github stats](https://github-readme-stats.vercel.app/api?username=spandex16&show_icons=true&theme=dracula)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spandex16&hide=html&layout=compact&theme=dracula)
-  
-</p> 
 <p align="center">
-
-  ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=spandex16&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandex16&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streaks" />
 </p>
  
 
