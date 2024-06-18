@@ -22,17 +22,17 @@ I am an enthusiastic data scientist with a strong foundation in economics and da
 ## Education
 
 University Of Calgary
-Calgary, Canada
-Master of Data Science and Analytics (Expected 2025)
-Specialization: Data Science
-Cumulative GPA: 4.00
+- Calgary, Canada
+- Master of Data Science and Analytics (Expected 2025)
+- Specialization: Data Science
+- Cumulative GPA: 4.00
 
 University Of British Columbia
-Kelowna, Canada
-BSc Economics with Data Science Minor (2018-2022)
-Cumulative GPA: 3.40
-Merit-based Outstanding International Student Scholarship (2018 - 2019)
-Enactus UBCO: Project Bond Financial Literacy for Students; Top 3 Regional Winner
+- Kelowna, Canada
+- BSc Economics with Data Science Minor (2018-2022)
+- Cumulative GPA: 3.40
+- Merit-based Outstanding International Student Scholarship (2018 - 2019)
+- Enactus UBCO: Project Bond Financial Literacy for Students; Top 3 Regional Winner
 
 Relevant Coursework: Machine Learning, Advanced Data Analytics, Applied Linear Algebra, Databases and Big Data Management, Network Science, Industrial Organisation and Regulation, Financial Economics, Econometrics, Statistical Methods and Analysis, Calculus 1-4, Financial Economics
 
